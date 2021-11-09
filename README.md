@@ -1,5 +1,5 @@
 # auHasard
-auHasard is a random name picker from a student list, with the thre features I need :
+auHasard is a random name picker from a student list, with the features I need :
 
 * Self-contained html file, which works without internet connexion.
 * The student list can be copy-pasted from Pronote.
