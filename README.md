@@ -7,9 +7,11 @@ auHasard is a random name picker from a student list, with the features I need :
 
 ## 3rd party
 
-* Thanks to catdad for the fun animation canvas-confetti : https://github.com/catdad/canvas-confetti
+Many thanks to catdad and kimeiga.
 
-* and also to kimeiga for the simple classless css framework bahunya : https://github.com/kimeiga/bahunya
+* For the fun animation canvas-confetti : https://github.com/catdad/canvas-confetti
+
+* and for the simple classless css framework bahunya : https://github.com/kimeiga/bahunya
 
 ## License
 The WTFPL is applying only on my work.
