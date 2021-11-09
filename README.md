@@ -3,7 +3,7 @@ auHasard is a random name picker from a student list, with the features I need :
 
 * Self-contained html file, which works without internet connexion.
 * The student list can be copy-pasted from Pronote.
-* The drawn name can be remove or not for the next draw.
+* The drawn name can be remove from pool for the next draw.
 
 ## 3rd party
 
