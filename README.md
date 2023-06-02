@@ -14,7 +14,7 @@ auHasard is a random name picker from a student list, with the features I need :
 
 Many thanks to catdad and kimeiga.
 
-* For the fun animation canvas-confetti : https://github.com/catdad/canvas-confetti
+* For the animation canvas-confetti : https://github.com/catdad/canvas-confetti
 
 * and for the simple classless css framework bahunya : https://github.com/kimeiga/bahunya
 
