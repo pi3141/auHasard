@@ -1,8 +1,8 @@
 # auHasard
 
-[demo with names](http://pgazaniol.free.fr/SITE/auHasard.html?names=Christy%20Lowe,Mrs.%20Cielo%20Baumbach,Elsie%20Thiel,Blanca%20Kub,Cyrus%20Christiansen,Alana%20Gutkowski,Claudia%20Kautzer,Lue%20Baumbach,Orin%20Daugherty,Ms.%20Lamar%20Wisozk,Hazle%20Fritsch,Eleanore%20O%27Keefe,Lorenzo%20Roob,Karson%20Gibson,Krystel%20Howe)
+[demo with names](https://pi3141.github.io/nomAléatoire.html?names=Christy%20Lowe,Mrs.%20Cielo%20Baumbach,Elsie%20Thiel,Blanca%20Kub,Cyrus%20Christiansen,Alana%20Gutkowski,Claudia%20Kautzer,Lue%20Baumbach,Orin%20Daugherty,Ms.%20Lamar%20Wisozk,Hazle%20Fritsch,Eleanore%20O%27Keefe,Lorenzo%20Roob,Karson%20Gibson,Krystel%20Howe)
 
-[demo](http://pgazaniol.free.fr/SITE/auHasard.html)
+[demo](https://pi3141.github.io/nomAléatoire.html)
 
 auHasard is a random name picker from a student list, with the features I need :
 
